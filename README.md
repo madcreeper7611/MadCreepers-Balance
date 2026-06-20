@@ -39,7 +39,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - All original upgrade plants (Gatling and Mega Gatling Pea, Spikerock, Winter Melon, and Gloom-shroom) now have a recharge time of 10 seconds.
 - Atomic Bombegranate now has a 45 second recharge instead of 20.
 - Grapeshot now costs 250 sun instead of 150.
-- Primal Potato Mine now costs 75 sun instead of 50 and deals 1600 damage instead of 2700.
+- Primal Potato Mine now costs 75 sun instead of 50 and deals 1600 damage instead of 3000.
 - Explode-o-nut now costs 200 sun and has a recharge time of 45 seconds.
 - Missile Toe no longer deals damage and has a 45 second firerate instead of 50.
 - Shrinking Violet now has a recharge time of 30 seconds instead of 15.
@@ -97,6 +97,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Robo-Cone Zombie now has 3200 health instead of 2500.
 - Mecha-Football Zombie and Disco-tron 3000 now have 2700 health instead of 2000.
 - Bug Bot Imp and Super Fan Imp now have 300 health instead of 270.
+- Knight Zombie now has 1800 health instead of 1790.
 - Wizard Zombie now has 600 health instead of 490.
 - Master Enchanter Zombie now has 1200 health instead of 630.
 - Arthur King Zombie now has 2000 health instead of 1500.
@@ -111,6 +112,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Imp Porter now has 600 health instead of 350.
 - Relic Hunter now 900 health instead of 710.
 - Turqoise Skull Zombie now has 400 health instead of 250.
+- Helmet Zombie now has 2000 health instead of 1790.
 - Torch Kongfu Zombie now has 300 health instead of 250.
 - Bomb Zombie now has 600 health instead of 500.
 - Gong Zombie now has 300 health instaed of 250.
@@ -123,6 +125,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Arcade Zombie now has 600 health instead of 490.
 - Boombox Zombie now has 600 health instead of 250.
 - Skunk Punk Zombie now has 500 health instead of 400.
+- Fossilhead Zombie now has 2000 health instead of 1990.
 - Jurassic Bully now has 1500 health instead of 1100.
 - Jurassic Imp now has 100 health instead of 95.
 - Jurassic Rockpuncher now has 2500 health instead of 2470.
