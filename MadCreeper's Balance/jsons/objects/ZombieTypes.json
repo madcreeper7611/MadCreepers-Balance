@@ -1,0 +1,64 @@
+{
+    "objects": [
+        {
+            "aliases": [
+                "eighties_punk_for_modern_day"
+            ],
+            "objclass": "ZombieType",
+            "objdata": {
+                "Properties": "RTID(eighties_punk_for_modern_day@ZombieProps)",
+                "ZombieBasedOn": "eighties_punk"
+            }
+        },
+        {
+            "aliases": [
+                "eighties_punk_veteran_for_modern_day"
+            ],
+            "objclass": "ZombieType",
+            "objdata": {
+                "Properties": "RTID(eighties_punk_veteran_for_modern_day@ZombieProps)",
+                "ZombieBasedOn": "eighties_punk_veteran"
+            }
+        },
+        {
+            "aliases": [
+                "eighties_glitter_for_modern_day"
+            ],
+            "objclass": "ZombieType",
+            "objdata": {
+                "Properties": "RTID(eighties_glitter_for_modern_day@ZombieProps)",
+                "ZombieBasedOn": "eighties_glitter"
+            }
+        },
+        {
+            "aliases": [
+                "eighties_mc_for_modern_day"
+            ],
+            "objclass": "ZombieType",
+            "objdata": {
+                "Properties": "RTID(eighties_mc_for_modern_day@ZombieProps)",
+                "ZombieBasedOn": "eighties_mc"
+            }
+        },
+        {
+			"aliases": [
+				"eighties_breakdancer_for_modern_day"
+			],
+			"objclass": "ZombieType",
+			"objdata": {
+				"Properties": "RTID(eighties_breakdancer_for_modern_day@ZombieProps)",
+				"ZombieBasedOn": "eighties_breakdancer"
+			}
+		},
+        {
+			"aliases": [
+				"eighties_gargantuar_for_modern_day"
+			],
+			"objclass": "ZombieType",
+			"objdata": {
+				"Properties": "RTID(eighties_gargantuar_for_modern_day@ZombieProps)",
+				"ZombieBasedOn": "eighties_gargantuar"
+			}
+		}
+    ]
+}

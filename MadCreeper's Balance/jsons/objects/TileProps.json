@@ -1,0 +1,20 @@
+{
+  "#comment": "Tile Properties!",
+  "version": 1,
+  "objects": [
+    {
+      "objclass": "TileProperties",
+      "aliases": [
+        "goldtile"
+      ],
+      "objdata": {
+        "PlantTypeIndicatesTo": "RTID(goldleaf@PlantTypes)",
+        "Rect": "RTID(TileDefaultRect@RectangleProps)",
+        "ProduceInterval": {
+          "Min": 40,
+          "Max": 48
+        }
+      }
+    }
+  ]
+}
