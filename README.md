@@ -39,7 +39,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - All original upgrade plants (Gatling and Mega Gatling Pea, Spikerock, Winter Melon, and Gloom-shroom) now have a recharge time of 10 seconds.
 - Atomic Bombegranate now has a 45 second recharge instead of 20.
 - Grapeshot now costs 250 sun instead of 150.
-- Primal Potato Mine now costs 75 sun instead of 50 and deals 1600 damage instead of 3000.
+- Primal Potato Mine now costs 75 sun instead of 50 and deals 1600 damage instead of 2700.
 - Explode-o-nut now costs 200 sun and has a recharge time of 45 seconds.
 - Missile Toe no longer deals damage and has a 45 second firerate instead of 50.
 - Shrinking Violet now has a recharge time of 30 seconds instead of 15.
@@ -95,7 +95,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Blastronaut Zombie now has 600 health instead of 390.
 - Shield Zombie now has 900 health instead of 500.
 - Robo-Cone Zombie now has 3200 health instead of 2500.
-- Mecha-Football Zombie and Disco-tron 3000 now have 2700 health instead of 2000.
+- Mecha-Football Zombie and Disco-tron 3000 now have 3000 health instead of 2000.
 - Bug Bot Imp and Super Fan Imp now have 300 health instead of 270.
 - Knight Zombie now has 1800 health instead of 1790.
 - Wizard Zombie now has 600 health instead of 490.
