@@ -1,8 +1,6 @@
 Welcome to the official repository of MadCreeper's Balance, a balancing mod for [PvZ2 Gardendless](https://pvzge.com/en/download/).
 
-# Changes
-
-## Plant Buffs
+# Plant Buffs
 
 - Peanut now shoots 1.5x faster when it reaches half health.
 - Toadstool now has a chew time of 20 seconds instead of 30.
@@ -31,7 +29,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Banana Launcher now deals 1400 damage instead of 1200.
 - Magnifying Grass's plant food ability can now absorb sun from Plantern.
 
-## Plant Nerfs
+# Plant Nerfs
 
 - Sun Producers such as all Sunflower variants, Moonflower, and Shine Vine now produce sun every 32 to 36 seconds instead of every 23.5 to 25 seconds.
 - Sun-shroom now produces sun every 40 to 48 seconds during the day instead of 32 to 30 seconds.
@@ -72,7 +70,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Fire Peashooter now costs 225 sun instead of 175.
 - Magnifying Grass now requires 75 sun to shoot a projectile instead of 50.
 
-## Zombie Buffs
+# Zombie Buffs
 
 - All Basic Zombies now have 200 health instead of 190.
 - Coneheads now have 600 health instead of 560.
@@ -139,7 +137,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - The Far Future Zomboss now spawns Robo-cones on the last stage.
 - The Dark Ages Zomboss now spawns Zombie Kings on the last Stage.
 
-Zombie Nerfs
+# Zombie Nerfs
 
 - Bucketheads now have 1200 health instead of 1290.
 - Gargantuars now have a walk speed of 0.16 instead of 0.24 and a wave point cost of 1800 instead of 1500.
@@ -162,17 +160,17 @@ Zombie Nerfs
 - The Far Future Zomboss now spawns Shield Zombies on the 2nd stage instead of the 1st.
 - The Dark Ages Zomboss now spawns Jesters and Wizards on the 2nd Stage instead of the 1st.
 
-## Zombie Neutral Changes
+# Zombie Neutral Changes
 
 - All zombosses now spawn gargantuars on the 3rd Stage instead of the 2nd.
 - The Ancient Egypt Expansion Zomboss now spawns weak pharaohs along with pharaohs.
 - The Wild West Expansion Zomboss now spawns Poncho Zombies on the 2nd stage.
 
-## Tile Changes
+# Tile Changes
 
 - Gold Tiles now produce sun every 40 to 48 seconds instead of every 20 seconds.
 
-## Level Changes
+# Level Changes
 
 - Ancient Egypt Day 34 now gives you an imitator iceberg lettuce and now has a minimum sun count of 2400 instead of 1800.
 - Wild West Day 35 now gives you 5 electric currants and 5 electric peashooters instead instead of 4 electric currants and no electric peashooters.
