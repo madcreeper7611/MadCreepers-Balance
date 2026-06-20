@@ -1,4 +1,4 @@
-This is the official repository of MadCreeper's Balance, a balancing mod for [PvZ2 Gardendless](https://pvzge.com/en/download/).
+Welcome to the official repository of MadCreeper's Balance, a balancing mod for [PvZ2 Gardendless](https://pvzge.com/en/download/).
 
 # Changes
 
