@@ -136,6 +136,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Zombonis now have 2000 health instead of 1100.
 - Bobsled team now has 400 health instead of 390.
 - All gargantuars now have 5600 health (besides for the Jurassic Marsh one which now has 6400 health) and are also immune to knockback from Primal Peashooter and Scaredy-shroom.
+- Treasure Yeti now has 1500 health instead of 700.
 - Both Ancient Egypt Zombosses now spawn Camel Zombies on the 2nd stage.
 - Both Pirate Seas Zombosses now spawn Imp Cannons on the last stage and now spawn seagull zombies on the 1st stage with the expansion one spawning pelican zombies as well.
 - The Pirate Seas Expansion Zomboss now has much, MUCH more health.
