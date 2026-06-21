@@ -28,6 +28,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Missile Toe costs 325 sun instead of 500 and now freezes zombies for 10 seconds in a 1x3 area with them being chilled for 10 seconds afterwards.
 - Banana Launcher now deals 1400 damage instead of 1200.
 - Magnifying Grass's plant food ability can now absorb sun from Plantern.
+- Nightshade's damage is no longer halved when powered.
 
 # Plant Nerfs
 
@@ -69,6 +70,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Zombies Enlightened by Solar Sage now produce sun every 12 to 16 seconds instead of every 10 to 14 seconds.
 - Fire Peashooter now costs 225 sun instead of 175.
 - Magnifying Grass now requires 75 sun to shoot a projectile instead of 50.
+- Nightshade's target range when powered is now 4.5 tiles instead of 9.
 
 # Zombie Buffs
 
