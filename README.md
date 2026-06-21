@@ -42,7 +42,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Primal Potato Mine now costs 75 sun instead of 50 and deals 1600 damage instead of 2700.
 - Explode-o-nut now costs 200 sun and has a recharge time of 45 seconds.
 - Missile Toe no longer deals damage and has a 45 second firerate instead of 50.
-- Shrinking Violet now has a recharge time of 30 seconds instead of 15.
+- Hurrikale and Shrinking Violet now have a recharge time of 30 seconds instead of 15.
 - Shadow-shroom now has a recharge time of 20 seconds instead of 10.
 - Strawburst now costs 450 sun instead of 400.
 - Gold Bloom now produces 225 sun instead of 375, has a recharge time of 90 seconds instead of 80, and has a cooldown starting from 10 seconds instead of 0.
