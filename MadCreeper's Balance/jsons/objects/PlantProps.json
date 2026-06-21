@@ -3136,7 +3136,7 @@
       "objdata": {
         "CannotBeSheepenedByWizard": true,
         "PushDuration": 3,
-        "Cooldown": 15,
+        "Cooldown": 30,
         "CooldownFrom": 1,
         "SunCost": 100,
         "BeghouledCost": 1000,
