@@ -12633,8 +12633,8 @@
 				"ImmuneToGarlic": true, 
 				"WavePointCost": 1400, 
 				"DroneInterval": { 
-					"Min": 24, 
-					"Max": 28 
+					"Min": 20, 
+					"Max": 24 
 				}, 
 				"Weight": 2500, 
 				"HitRect": "RTID(DarkKingHitRect@RectangleProps)", 
