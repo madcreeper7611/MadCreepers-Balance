@@ -62,7 +62,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Snow Pea now costs 175 sun instead of 150.
 - All Mints now have a recharge of 90 seconds instead of 85.
 - Goo Peashooter now costs 275 sun instead of 150 and now deals 20 damage instead of 30 with the poison damage dealing 5 DPS instead of 10.
-- Shooting Starfruit now deals 20 damage instead of 30.
+- Shooting Starfruit now shoots stars every 1.35 to 1.5 seconds instead of every 0.9 to 1.0 seconds.
 - Asparajet now costs 275 sun instead of 225.
 - Moon Bean now costs 50 sun instead of 25 and has a recharge time of 25 instead of 20.
 - Shooting Starfruit now deals 20 damage instead of 30.
