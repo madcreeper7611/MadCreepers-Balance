@@ -158,7 +158,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Abbot Imp now has 400 health instead of 600.
 - Skunk Punk Zombie now spawns Skunks every 10 seconds instead of every 5 and has a spawn point cost of 600 instead of 500.
 - Jurassic Gargantuar now has a walk speed of 0.14 instead of 0.16.
-- Drone Engineer Zombie now crafts drones every 24 to 28 seconds instead of 16 to 20.
+- Drone Engineer Zombie now crafts drones every 20 to 24 seconds instead of 16 to 20.
 - Newspaper Zombie now has 1000 health instead of 1260.
 - Sunday Edition Zombie now has 2050 health instead of 2290.
 - The Pirate Seas zomboss spawns Pirate Captains on the 2nd stage instead of the 1st.
