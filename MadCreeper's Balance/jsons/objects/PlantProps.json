@@ -1283,8 +1283,8 @@
         "shootingstarfruit"
       ],
       "objdata": {
-        "ShootInterval": 0.9,
-        "ShootIntervalAdditional": 0.1,
+        "ShootInterval": 1.35,
+        "ShootIntervalAdditional": 0.15,
         "Cooldown": 5,
         "CooldownFrom": 1,
         "SunCost": 500,

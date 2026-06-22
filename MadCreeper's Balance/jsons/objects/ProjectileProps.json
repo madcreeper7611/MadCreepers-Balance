@@ -4593,7 +4593,7 @@
         "shootingstar"
       ],
       "objdata": {
-        "Damage": 20,
+        "Damage": 30,
         "Size": {
           "w": 16,
           "h": 16
@@ -4606,7 +4606,7 @@
         "shootingstar1"
       ],
       "objdata": {
-        "Damage": 40,
+        "Damage": 90,
         "Size": {
           "w": 16,
           "h": 16
@@ -4619,7 +4619,7 @@
         "shootingstar2"
       ],
       "objdata": {
-        "Damage": 60,
+        "Damage": 180,
         "Size": {
           "w": 16,
           "h": 16
