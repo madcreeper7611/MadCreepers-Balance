@@ -51,6 +51,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Stallia and Stunion now have a recharge of 25 seconds instead of 20.
 - Escape Root now costs 125 sun.
 - Electric Peashooter and Snowdrop now cost 325 sun instead of 200.
+- Snowdrop now costs 375 sun instead of 200 and has a 10% chance to freeze zombies instead of a 30% chance.
 - Sapfling now costs 125 sun instead of 75.
 - Buttercup now costs 50 sun instead of 25.
 - Ice-shroom now costs 600 sun instead of 300.
