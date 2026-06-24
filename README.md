@@ -70,7 +70,6 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Bloomerang now shoots every 2.85 to 3 seconds instead of every 2.7 to 2.85.
 - Zombies Enlightened by Solar Sage now produce sun every 12 to 16 seconds instead of every 10 to 14 seconds.
 - Fire Peashooter now costs 225 sun instead of 175.
-- Magnifying Grass now requires 75 sun to shoot a projectile instead of 50.
 - Nightshade's target range when powered is now 4.5 tiles instead of 9.
 
 # Zombie Buffs
