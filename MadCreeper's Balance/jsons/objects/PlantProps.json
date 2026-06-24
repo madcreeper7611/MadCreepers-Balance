@@ -3256,7 +3256,7 @@
         "magnifyinggrass"
       ],
       "objdata": {
-        "ShootSunCost": 75,
+        "ShootSunCost": 50,
         "PeaType": "magnifying_grass",
         "PlantfoodDuration": 3,
         "PlantfoodDurationExtendPerProducer": 0.15,

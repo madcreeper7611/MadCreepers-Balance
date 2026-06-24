@@ -2003,7 +2003,7 @@
         "magnifying_grass"
       ],
       "objdata": {
-        "Damage": 600,
+        "Damage": 550,
         "CannotBeReversedByJester": true,
         "Size": {
           "w": 16,
@@ -2018,7 +2018,7 @@
       ],
       "objdata": {
         "SpeedMult": 1.5,
-        "Damage": 1200,
+        "Damage": 1100,
         "CannotBeReversedByJester": true,
         "Size": {
           "w": 16,
@@ -2033,7 +2033,7 @@
       ],
       "objdata": {
         "SpeedMult": 2,
-        "Damage": 1800,
+        "Damage": 1650,
         "CannotBeReversedByJester": true,
         "Size": {
           "w": 16,
