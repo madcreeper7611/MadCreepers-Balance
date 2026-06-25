@@ -20,7 +20,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Pyre Vine now does 40 damage per second instead of 20.
 - Lightning Reed when powered by Electric Currant now stuns a zombie for 0.5 seconds instead of 0.25.
 - Lightning Reed, Electric Peashooter, and Electric Current are now immune to freezing.
-- Snow Pea now has a 10% chance of freezing a zombie.
+- Snow Pea now has a 5% chance of freezing a zombie.
 - Snap Dragon is now a heater again.
 - Fire Peashooter now heats plants every 3 seconds instead of every 6.
 - Laser Bean now deals 50 damage instead of 40.
@@ -50,8 +50,8 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Ghost Pepper now has a recharge time of 20 seconds.
 - Stallia and Stunion now have a recharge of 25 seconds instead of 20.
 - Escape Root now costs 125 sun.
-- Electric Peashooter and Snowdrop now cost 325 sun instead of 200.
-- Snowdrop now costs 375 sun instead of 200 and has a 10% chance to freeze zombies instead of a 30% chance.
+- Electric Peashooter now cost 325 sun instead of 200.
+- Snowdrop now costs 250 sun instead of 200 and has a 5% chance to freeze zombies instead of a 30% chance.
 - Sapfling now costs 125 sun instead of 75.
 - Buttercup now costs 50 sun instead of 25.
 - Ice-shroom now costs 600 sun instead of 300.
