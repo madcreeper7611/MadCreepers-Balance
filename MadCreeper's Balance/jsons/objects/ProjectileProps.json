@@ -1094,6 +1094,24 @@
     {
       "objclass": "ProjectileProperties",
       "aliases": [
+        "pea_snow_freeze"
+      ],
+      "objdata": {
+        "Damage": 20,
+        "YellowIgnitedType": "pea_snow",
+        "BlueIgnitedType": "pea_snow",
+        "ChillDuration": 10,
+        "FreezeDuration": 5,
+        "IceBlockLevel": 3,
+        "Size": {
+          "w": 16,
+          "h": 16
+        }
+      }
+    },
+    {
+      "objclass": "ProjectileProperties",
+      "aliases": [
         "pea_goo"
       ],
       "objdata": {
@@ -1336,8 +1354,8 @@
       "objdata": {
         "Damage": 30,
         "ChillDuration": 10,
-        "FreezeDuration": 6,
-        "IceBlockLevel": 1,
+        "FreezeDuration": 5,
+        "IceBlockLevel": 3,
         "SplashDamage": [
           {
             "Range": {

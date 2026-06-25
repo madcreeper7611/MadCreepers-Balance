@@ -1,0 +1,14 @@
+{
+    "objects": [
+        {
+            "objclass": "ProjectileType",
+            "aliases": [
+                "pea_snow_freeze"
+            ],
+            "objdata": {
+                "ProjectileBasedOn": "snowdrop_freeze",
+                "Props": "RTID(pea_snow_freeze@ProjectileProps)"
+            }
+        }
+    ]
+}
