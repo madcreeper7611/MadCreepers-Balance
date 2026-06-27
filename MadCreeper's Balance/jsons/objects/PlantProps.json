@@ -2558,7 +2558,7 @@
       "objdata": {
         "CannotBeSheepenedByWizard": true,
         "Cooldown": 90,
-        "CooldownFrom": 10,
+        "CooldownFrom": 0.1111,
         "SunCost": 0,
         "BeghouledCost": 1000,
         "Toughness": 300,
