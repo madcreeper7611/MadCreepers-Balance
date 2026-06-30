@@ -7,7 +7,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Garlic now has 2000 health instead of 900 and recieves 100 bite damage from zombies instead of 150.
 - Vamporcini deals 120 damage in his plant food ability instead of 40.
 - Dragon Bruit's plant food projectiles now deal 300 damage each instead of 200.
-- Potato Mine, Cherry Bomb, Grapeshot, Jalapeno, Explode-O-Nut, and Atomic Bombegranate now deal 3000 damage instead of 1800.
+- Potato Mine, Cherry Bomb, Squash, Grapeshot, Jalapeno, Explode-O-Nut, and Atomic Bombegranate now deal 3000 damage instead of 1800.
 - Doom-shroom now deals 4500 damage instead of 2700.
 - Phat Beet now deals 20 damage instead of 15 and has a chance of dealing 60 damage instead of 45.
 - Intensive Carrot now costs 50 sun instead of 100.
