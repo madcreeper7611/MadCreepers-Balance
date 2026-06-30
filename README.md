@@ -155,8 +155,9 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Mecha-Football Zombie now has a wave point cost of 1200 instead of 1000.
 - Disco-tron 3000 now has a wave point cost of 1000 instead of 800.
 - Surfer Zombie's surfboard now has 600 health instead of 700.
-- Bronze of Toughness now has a walk speed of 0.12 instead of 0.16 and increases their walk speed to 0.24 instead of 0.4.
-- Bronze of Hook now swaps lanes every 12 to 20 seconds instead of every 10 to 16 seconds.
+- Bronze of Toughness now has a walk speed of 0.12 instead of 0.16, increases their walk speed to 0.24 instead of 0.4, and has a wave point cost of 2400 instead of 1500.
+- Bronze of Hook now swaps lanes every 12 to 20 seconds instead of every 10 to 16 seconds and has a wave point cost of 2500 instead of 1500.
+- Bronze of Qigong has a wave point cost of 2400 instead of 1800.
 - Monk Imp now has 300 health instead of 600.
 - Fan Swinging Abbot now has 500 health instead of 550.
 - Abbot Imp now has 400 health instead of 600.
