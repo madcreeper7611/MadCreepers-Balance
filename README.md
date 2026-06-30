@@ -168,7 +168,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Monk Imp now has 300 health instead of 600.
 - Fan Swinging Abbot now has 500 health instead of 550.
 - Abbot Imp now has 400 health instead of 600.
-- Metal Hair Gargantuar now has a spawn weight of 2000 instead of 3000 with his shockwave ability dealing 600 damage instead of 1000.
+- Metal Hair Gargantuar now has a wave point cost of 2200 instead of 1500, a spawn weight of 2000 instead of 3000 with his shockwave ability dealing 600 damage instead of 1000.
 - Skunk Punk Zombie now spawns Skunks every 10 seconds instead of every 5 and has a spawn point cost of 600 instead of 500.
 - Jurassic Gargantuar now has a walk speed of 0.14 instead of 0.16.
 - Drone Engineer Zombie now crafts drones every 20 to 24 seconds instead of 16 to 20.
