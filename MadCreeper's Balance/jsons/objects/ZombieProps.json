@@ -13203,7 +13203,7 @@
 				"JamStyle": "jam_metal",
 				"WaveType": "eighties_gargantuar_wave",
 				"WavePointCost": 1800,
-				"Weight": 2000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
 			}
@@ -13233,7 +13233,7 @@
 				"JamStyle": "jam_clear",
 				"WaveType": "eighties_gargantuar_wave",
 				"WavePointCost": 1800,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
 			}
