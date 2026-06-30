@@ -3724,9 +3724,9 @@
         "ImmuneToSpeakerWave": true,
         "Cooldown": 10,
         "CooldownFrom": 0.75,
-        "SunCost": 75,
+        "SunCost": 50,
         "BeghouledCost": 500,
-        "Toughness": 4000,
+        "Toughness": 3000,
         "Family": "Defence",
         "MintBoostedProps": {
           "ResistanceMult": 3,
