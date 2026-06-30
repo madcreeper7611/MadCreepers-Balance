@@ -123,8 +123,8 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Bomb Zombie now has 600 health instead of 500.
 - Gong Zombie now has 300 health instaed of 250.
 - Qigong Zombie now has 400 health instead of 300.
+- Monk Zombies now have a walk speed of 0.22 instead of 0.2
 - Torch Monk Zombie now has 400 health instead of 270.
-- Abbots now have 300 health instead of 250.
 - Qigong Abbot now has 1200 health instead of 1100.
 - Bronze of Hook now has a walkspeed of 0.17 instead of 0.16.
 - Bronze of Qigong now has a walkspeed of 0.15 instead of 0.125.
@@ -134,6 +134,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Arcade Zombie now has 600 health instead of 490.
 - Boombox Zombie now has 600 health instead of 250.
 - Skunk Punk Zombie now has 500 health instead of 400.
+- Jurassic Zombies now have a base health of 300 instead of 200 but have a walk speed of 0.175 instead of 0.22
 - Fossilhead Zombie now has 2000 health instead of 1990.
 - Jurassic Bully now has 1500 health instead of 1100.
 - Jurassic Imp now has 100 health instead of 95.
