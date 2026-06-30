@@ -2940,6 +2940,7 @@
         "missiletoe"
       ],
       "objdata": {
+        "Damage": 0,
         "ChillDuration": 10,
         "FreezeDuration": 10,
         "IceBlockLevel": 1,
@@ -2974,6 +2975,7 @@
         "missiletoe1"
       ],
       "objdata": {
+        "Damage": 0,
         "SpeedMult": 1.5,
         "ChillDuration": 20,
         "FreezeDuration": 20,
@@ -3009,6 +3011,7 @@
         "missiletoe2"
       ],
       "objdata": {
+        "Damage": 0,
         "SpeedMult": 2,
         "ChillDuration": 40,
         "FreezeDuration": 40,
