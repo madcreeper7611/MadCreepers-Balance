@@ -155,7 +155,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Mecha-Football Zombie now has a wave point cost of 1200 instead of 1000.
 - Disco-tron 3000 now has a wave point cost of 1000 instead of 800.
 - Surfer Zombie's surfboard now has 600 health instead of 700.
-- Bronze of Toughness now has a walk speed of 0.12 instead of 0.16 and increases their walkspeed to 0.24 instead of 0.4.
+- Bronze of Toughness now has a walk speed of 0.12 instead of 0.16 and increases their walk speed to 0.24 instead of 0.4.
 - Bronze of Hook now swaps lanes every 12 to 20 seconds instead of every 10 to 16 seconds.
 - Monk Imp now has 300 health instead of 600.
 - Fan Swinging Abbot now has 500 health instead of 550.
@@ -176,7 +176,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - All zombosses now spawn gargantuars on the 3rd Stage instead of the 2nd.
 - The Ancient Egypt Expansion Zomboss now spawns weak pharaohs along with pharaohs.
 - The Wild West Expansion Zomboss now spawns Poncho Zombies on the 2nd stage.
-- Bronze of Chi can now summon Kongfu Coneheads, Kongfu Kettleheads, Monk Coneheads, and Monk Kettleheads.
+- Bronze of Chi can now summon Kongfu Coneheads, Kongfu Kettleheads, Monk Coneheads, Monk Kettleheads, and Kongfu Monk Imps.
 
 # Tile Changes
 
