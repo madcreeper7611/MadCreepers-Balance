@@ -555,7 +555,7 @@
       ],
       "objdata": {
         "ChargeTime": 14,
-        "Damage": 2800,
+        "Damage": 3000,
         "PlantfoodChildrenCount": 2,
         "Cooldown": 20,
         "CooldownFrom": 0.75,
@@ -2128,7 +2128,7 @@
       ],
       "objdata": {
         "CannotBeSheepenedByWizard": true,
-        "Damage": 2800,
+        "Damage": 3000,
         "Cooldown": 45,
         "CooldownFrom": 1,
         "SunCost": 150,
@@ -2614,7 +2614,7 @@
       "objdata": {
         "ImmuneToBoomBox": true,
         "CannotBeSheepenedByWizard": true,
-        "Damage": 4200,
+        "Damage": 4500,
         "TileCrackleDuration": 180,
         "Cooldown": 60,
         "CooldownFrom": 1,
@@ -2742,7 +2742,7 @@
       "objdata": {
         "ImmuneToBoomBox": true,
         "CannotBeSheepenedByWizard": true,
-        "Damage": 2800,
+        "Damage": 3000,
         "Duration": 5,
         "Cooldown": 45,
         "CooldownFrom": 1,
@@ -3363,8 +3363,8 @@
       "objdata": {
         "CannotBeHealedByAloe": true,
         "ArmorToughness": 4000,
-        "Damage": 2800,
-        "ArmorDamage": 2500,
+        "Damage": 3000,
+        "ArmorDamage": 3000,
         "Cooldown": 45,
         "CooldownFrom": 0.5,
         "SunCost": 200,
@@ -3387,7 +3387,7 @@
       "objdata": {
         "ImmuneToBoomBox": true,
         "CannotBeSheepenedByWizard": true,
-        "Damage": 2800,
+        "Damage": 3000,
         "Cooldown": 45,
         "CooldownFrom": 1,
         "SunCost": 250,
@@ -3636,7 +3636,7 @@
       "objdata": {
         "GrapeType": "grapeshot",
         "ChargeTime": 10,
-        "Damage": 2800,
+        "Damage": 3000,
         "DamagePrimal": 2700,
         "Cooldown": 20,
         "CooldownFrom": 0.75,
