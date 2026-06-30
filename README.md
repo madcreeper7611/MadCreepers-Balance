@@ -31,7 +31,8 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Banana Launcher now deals 1400 damage instead of 1200.
 - Magnifying Grass's plant food ability can now absorb sun from Plantern.
 - Nightshade's damage is no longer halved when powered.
-- Resistant Raddish now has 4000 health instead of 2000.
+- Resistant Raddish now has 3000 toughness instead of 2000.
+- Endurian now costs 75 sun instead of 100.
 
 # Plant Nerfs
 
