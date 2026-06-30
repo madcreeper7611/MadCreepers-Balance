@@ -126,6 +126,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Monk Zombies now have a walk speed of 0.22 instead of 0.2
 - Torch Monk Zombie now has 400 health instead of 270.
 - Qigong Abbot now has 1200 health instead of 1100.
+- Bronze Statue now has 12000 health instead of 9000.
 - Bronze of Hook now has a walkspeed of 0.17 instead of 0.16.
 - Bronze of Qigong now has a walkspeed of 0.15 instead of 0.125.
 - Devil of Dynamite's bombs now deal 3000 damage instead of 2500.
