@@ -4935,7 +4935,7 @@
 				"WalkSPS": 0,
 				"WalkSPSVarience": 0,
 				"EatDPS": 100,
-				"Toughness": 9000,
+				"Toughness": 12000,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 2500,
 				"Weight": 2750,
