@@ -7,8 +7,8 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Garlic now has 2000 health instead of 900 and recieves 100 bite damage from zombies instead of 150.
 - Vamporcini deals 120 damage in his plant food ability instead of 40.
 - Dragon Bruit's plant food projectiles now deal 300 damage each instead of 200.
-- Potato Mine, Cherry Bomb, Grapeshot, Jalapeno, Explode-O-Nut, and Atomic Bombegranate now deal 2800 damage instead of 1800.
-- Doom-shroom now deals 4200 damage instead of 2700.
+- Potato Mine, Cherry Bomb, Grapeshot, Jalapeno, Explode-O-Nut, and Atomic Bombegranate now deal 3000 damage instead of 1800.
+- Doom-shroom now deals 4500 damage instead of 2700.
 - Phat Beet now deals 20 damage instead of 15 and has a chance of dealing 60 damage instead of 45.
 - Intensive Carrot now costs 50 sun instead of 100.
 - Pepper-pult now has a 5 second recharge and now does 60 damage with a splash damage of 20 instead of 50 damage with a splash damage of 10.
@@ -97,7 +97,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Blastronaut Zombie now has 600 health instead of 390.
 - Shield Zombie now has 900 health instead of 500.
 - Robo-Cone Zombie now has 3200 health instead of 2500.
-- Mecha-Football Zombie and Disco-tron 3000 now have 3000 health instead of 2000.
+- Mecha-Football Zombie and Disco-tron 3000 now have 3200 health instead of 2000.
 - Bug Bot Imp and Super Fan Imp now have 300 health instead of 270.
 - Knight Zombie now has 1800 health instead of 1790.
 - Wizard Zombie now has 600 health instead of 490.
@@ -122,6 +122,8 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Torch Monk Zombie now has 400 health instead of 270.
 - Abbots now have 300 health instead of 250.
 - Qigong Abbot now has 1200 health instead of 1100.
+- Bronze of Hook now has a walkspeed of 0.17 instead of 0.16.
+- Bronze of Qigong now has a walkspeed of 0.15 instead of 0.125.
 - Glitter Zombie now has 750 health instead of 490.
 - MC-Zom-B now has 400 health instead of 250.
 - Arcade Zombie now has 600 health instead of 490.
@@ -135,7 +137,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - All-Star Zombie now has 1800 health instead of 1100 and has a walk speed of 0.24 instead of 0.16.
 - Zombonis now have 2000 health instead of 1100.
 - Bobsled team now has 400 health instead of 390.
-- All gargantuars now have 5600 health (besides for the Jurassic Marsh one which now has 6400 health) and are also immune to knockback from Primal Peashooter and Scaredy-shroom.
+- All gargantuars now have 6000 health (besides for the Jurassic Marsh one which now has 7200 health, as well as the Kongfu Bronzes, with Bronze of Toughness having 9500 health, and Bronze of Hook and Bronze of Qigong having 8000 health) and are also immune to knockback from Primal Peashooter and Scaredy-shroom.
 - Treasure Yeti now has 1500 health instead of 700.
 - Both Ancient Egypt Zombosses now spawn Camel Zombies on the 2nd stage.
 - Both Pirate Seas Zombosses now spawn Imp Cannons on the last stage and now spawn seagull zombies on the 1st stage with the expansion one spawning pelican zombies as well.
@@ -153,10 +155,12 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Mecha-Football Zombie now has a wave point cost of 1200 instead of 1000.
 - Disco-tron 3000 now has a wave point cost of 1000 instead of 800.
 - Surfer Zombie's surfboard now has 600 health instead of 700.
+- Bronze of Toughness now has a walk speed of 0.12 instead of 0.16 and increases their walkspeed to 0.24 instead of 0.4.
+- Bronze of Hook now swaps lanes every 12 to 20 seconds instead of every 10 to 16 seconds.
 - Monk Imp now has 300 health instead of 600.
 - Fan Swinging Abbot now has 500 health instead of 550.
 - Abbot Imp now has 400 health instead of 600.
-- Metal Hair Gargantuar now has a spawn weight of 2000 instead of 3000.
+- Metal Hair Gargantuar now has a spawn weight of 2000 instead of 3000 with his shockwave ability dealing 450 damage instead of 1000.
 - Skunk Punk Zombie now spawns Skunks every 10 seconds instead of every 5 and has a spawn point cost of 600 instead of 500.
 - Jurassic Gargantuar now has a walk speed of 0.14 instead of 0.16.
 - Drone Engineer Zombie now crafts drones every 20 to 24 seconds instead of 16 to 20.
@@ -172,6 +176,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - All zombosses now spawn gargantuars on the 3rd Stage instead of the 2nd.
 - The Ancient Egypt Expansion Zomboss now spawns weak pharaohs along with pharaohs.
 - The Wild West Expansion Zomboss now spawns Poncho Zombies on the 2nd stage.
+- Bronze of Chi can now summon Kongfu Coneheads, Kongfu Kettleheads, Monk Coneheads, and Monk Kettleheads.
 
 # Tile Changes
 
