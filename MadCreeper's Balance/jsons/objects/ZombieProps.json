@@ -5881,9 +5881,9 @@
 			"objclass": "ZombieProperties",
 			"objdata": {
 				"ZombieSort": "Normal",
-				"WalkSPS": 0.2,
+				"WalkSPS": 0.22,
 				"EatDPS": 100,
-				"Toughness": 250,
+				"Toughness": 200,
 				"WavePointCost": 100,
 				"Weight": 1000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
@@ -5904,9 +5904,9 @@
 			"objclass": "ZombieProperties",
 			"objdata": {
 				"ZombieSort": "Normal",
-				"WalkSPS": 0.2,
+				"WalkSPS": 0.22,
 				"EatDPS": 100,
-				"Toughness": 250,
+				"Toughness": 200,
 				"StartingArmors": [
 					"kongfu_armor1"
 				],
@@ -5923,9 +5923,9 @@
 			"objclass": "ZombieProperties",
 			"objdata": {
 				"ZombieSort": "Normal",
-				"WalkSPS": 0.2,
+				"WalkSPS": 0.22,
 				"EatDPS": 100,
-				"Toughness": 250,
+				"Toughness": 200,
 				"StartingArmors": [
 					"kongfu_armor2"
 				],
@@ -5942,9 +5942,9 @@
 			"objclass": "ZombieProperties",
 			"objdata": {
 				"ZombieSort": "Normal",
-				"WalkSPS": 0.2,
+				"WalkSPS": 0.22,
 				"EatDPS": 100,
-				"Toughness": 250,
+				"Toughness": 200,
 				"StartingArmors": [
 					"kongfu_armor3"
 				],
@@ -5961,9 +5961,9 @@
 			],
 			"objdata": {
 				"ZombieSort": "Normal",
-				"WalkSPS": 0.2,
+				"WalkSPS": 0.22,
 				"EatDPS": 100,
-				"Toughness": 250,
+				"Toughness": 200,
 				"WavePointCost": 700,
 				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
@@ -5980,9 +5980,9 @@
 			"objclass": "ZombieProperties",
 			"objdata": {
 				"ZombieSort": "Normal",
-				"WalkSPS": 0.26,
+				"WalkSPS": 0.28,
 				"EatDPS": 100,
-				"Toughness": 250,
+				"Toughness": 200,
 				"WavePointCost": 100,
 				"Weight": 100,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
@@ -5996,9 +5996,9 @@
 			"objclass": "ZombieProperties",
 			"objdata": {
 				"ZombieSort": "Normal",
-				"WalkSPS": 0.44,
+				"WalkSPS": 0.5,
 				"EatDPS": 300,
-				"Toughness": 500,
+				"Toughness": 400,
 				"WavePointCost": 100,
 				"Weight": 100,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
@@ -6105,7 +6105,7 @@
 				"ZombieSort": "Normal",
 				"WalkSPS": 0.2,
 				"EatDPS": 100,
-				"Toughness": 300,
+				"Toughness": 250,
 				"WavePointCost": 100,
 				"Weight": 1000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
@@ -6128,7 +6128,7 @@
 				"ZombieSort": "Normal",
 				"WalkSPS": 0.2,
 				"EatDPS": 100,
-				"Toughness": 300,
+				"Toughness": 250,
 				"StartingArmors": [
 					"kongfu_armor1"
 				],
@@ -6147,7 +6147,7 @@
 				"ZombieSort": "Normal",
 				"WalkSPS": 0.2,
 				"EatDPS": 100,
-				"Toughness": 300,
+				"Toughness": 250,
 				"StartingArmors": [
 					"kongfu_armor2"
 				],
@@ -6166,7 +6166,7 @@
 				"ZombieSort": "Normal",
 				"WalkSPS": 0.2,
 				"EatDPS": 100,
-				"Toughness": 300,
+				"Toughness": 250,
 				"StartingArmors": [
 					"kongfu_armor3"
 				],
@@ -6185,7 +6185,7 @@
 				"ZombieSort": "Normal",
 				"WalkSPS": 0.2,
 				"EatDPS": 100,
-				"Toughness": 300,
+				"Toughness": 250,
 				"WavePointCost": 700,
 				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
@@ -6204,7 +6204,7 @@
 				"ZombieSort": "Normal",
 				"WalkSPS": 0.26,
 				"EatDPS": 100,
-				"Toughness": 300,
+				"Toughness": 250,
 				"WavePointCost": 100,
 				"Weight": 100,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
@@ -6220,7 +6220,7 @@
 				"ZombieSort": "Normal",
 				"WalkSPS": 0.44,
 				"EatDPS": 300,
-				"Toughness": 600,
+				"Toughness": 450,
 				"WavePointCost": 100,
 				"Weight": 100,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
@@ -14229,9 +14229,9 @@
 			"objclass": "ZombieProperties",
 			"objdata": {
 				"ZombieSort": "Normal",
-				"WalkSPS": 0.22,
+				"WalkSPS": 0.175,
 				"EatDPS": 150,
-				"Toughness": 200,
+				"Toughness": 300,
 				"WavePointCost": 100,
 				"Weight": 1000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
@@ -14245,9 +14245,9 @@
 			"objclass": "ZombieProperties",
 			"objdata": {
 				"ZombieSort": "Normal",
-				"WalkSPS": 0.22,
+				"WalkSPS": 0.175,
 				"EatDPS": 150,
-				"Toughness": 200,
+				"Toughness": 300,
 				"StartingArmors": [
 					"dino_armor1"
 				],
@@ -14264,9 +14264,9 @@
 			"objclass": "ZombieProperties",
 			"objdata": {
 				"ZombieSort": "Normal",
-				"WalkSPS": 0.185,
-				"EatDPS": 100,
-				"Toughness": 200,
+				"WalkSPS": 0.175,
+				"EatDPS": 150,
+				"Toughness": 300,
 				"StartingArmors": [
 					"dino_armor2"
 				],
@@ -14283,9 +14283,9 @@
 			"objclass": "ZombieProperties",
 			"objdata": {
 				"ZombieSort": "Normal",
-				"WalkSPS": 0.185,
-				"EatDPS": 100,
-				"Toughness": 200,
+				"WalkSPS": 0.175,
+				"EatDPS": 150,
+				"Toughness": 300,
 				"StartingArmors": [
 					"dino_armor3"
 				],
@@ -14303,9 +14303,9 @@
 			"objdata": {
 				"ZombieSort": "Normal",
 				"CannotCarryPlantfoodsInWaves": true,
-				"WalkSPS": 0.185,
-				"EatDPS": 100,
-				"Toughness": 200,
+				"WalkSPS": 0.175,
+				"EatDPS": 150,
+				"Toughness": 300,
 				"StartingArmors": [
 					"dino_armor4"
 				],
@@ -14323,9 +14323,9 @@
 			"objdata": {
 				"ZombieSort": "Normal",
 				"CannotCarryPlantfoodsInWaves": true,
-				"WalkSPS": 0.25,
+				"WalkSPS": 0.2,
 				"EatDPS": 150,
-				"Toughness": 200,
+				"Toughness": 300,
 				"WavePointCost": 100,
 				"Weight": 100,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
@@ -14340,9 +14340,9 @@
 			"objdata": {
 				"ZombieSort": "Normal",
 				"CannotCarryPlantfoodsInWaves": true,
-				"WalkSPS": 0.4,
+				"WalkSPS": 0.36,
 				"EatDPS": 400,
-				"Toughness": 400,
+				"Toughness": 500,
 				"WavePointCost": 100,
 				"Weight": 100,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
