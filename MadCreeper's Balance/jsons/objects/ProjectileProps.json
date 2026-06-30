@@ -5341,7 +5341,7 @@
         "eighties_gargantuar_wave"
       ],
       "objdata": {
-        "Damage": 450,
+        "Damage": 600,
         "CannotBeReversedByJester": true,
         "DetectsEaterDetectDisabledPlants": true,
         "Size": {
