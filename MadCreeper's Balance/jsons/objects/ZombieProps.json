@@ -5060,7 +5060,7 @@
 				"LivesInDeepWater": true,
 				"WalkSPS": 0.15,
 				"EatDPS": 100,
-				"Toughness": 6400,
+				"Toughness": 8000,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 2400,
 				"Weight": 3000,
