@@ -3724,7 +3724,7 @@
         "ImmuneToSpeakerWave": true,
         "Cooldown": 10,
         "CooldownFrom": 0.75,
-        "SunCost": 50,
+        "SunCost": 75,
         "BeghouledCost": 500,
         "Toughness": 4000,
         "Family": "Defence",
