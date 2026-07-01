@@ -611,7 +611,7 @@
 				"Toughness": 5400,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -638,7 +638,7 @@
 				"Toughness": 5400,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"DecreasedChangeLaneCDPerSmash": 2,
 				"ImpType": "tutorial_imp",
@@ -675,7 +675,7 @@
 				"Toughness": 5400,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"ImpType": "sportzball_imp",
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
@@ -769,7 +769,7 @@
 				"Toughness": 5400,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"ImpType": "easter_egg",
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
@@ -797,7 +797,7 @@
 				"Toughness": 5400,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"ImpType": "easter_egg_af",
 				"ImpColumnsAreRelative": true,
@@ -829,7 +829,7 @@
 				"Toughness": 5400,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"LaneChangeTime": 0.6,
 				"ImpType": "valentines_imp",
@@ -859,7 +859,7 @@
 				"Toughness": 5400,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"ImpType": "holiday_imp",
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
@@ -888,7 +888,7 @@
 				"Toughness": 5400,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"ImpType": "feastivus_imp",
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
@@ -917,7 +917,7 @@
 				"Toughness": 5400,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -945,7 +945,7 @@
 				"Toughness": 5400,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)",
@@ -1988,7 +1988,7 @@
 				"PharaohTypes": [
 					"mummy"
 				],
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -3008,7 +3008,7 @@
 				"EatDPS": 100,
 				"Toughness": 5400,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -4042,7 +4042,7 @@
 				"NormalDeathWhenMowed": true,
 				"SplashDamageToZombies": 100,
 				"SplashDamageToPlants": 40,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -8101,7 +8101,7 @@
 				"Toughness": 5400,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -9177,7 +9177,7 @@
 				"EatDPS": 100,
 				"Toughness": 5400,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -10333,7 +10333,7 @@
 				"Toughness": 5400,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -11071,7 +11071,7 @@
 				"CannotBeKnockedBackByProjectiles": true,
 				"SmashDamage": 1500,
 				"FireDamage": 1200,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -11174,7 +11174,7 @@
 				"CannotCarryPlantfoodsInWaves": true,
 				"SmashDamage": 1500,
 				"FireDamage": 1200,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"ElectricityStunDuration": 1,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
@@ -11744,7 +11744,7 @@
 				"CannotCarryPlantfoodsInWaves": true,
 				"SmashDamage": 1500,
 				"FireDamage": 1200,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -12704,9 +12704,7 @@
 				"NormalDeathWhenMowed": true, 
 				"CannotCarryPlantfoodsInWaves": true, 
 				"SmashDamage": 1500, 
-				"JamStyle": "jam_metal", 
-				"WaveType": "eighties_gargantuar_wave", 
-				"WavePointCost": 1800, 
+				"WavePointCost": 1600, 
 				"Weight": 3000, 
 				"ShipDPS": 300, 
 				"SkyCityShipDetectXOffset": -70, 
@@ -12715,7 +12713,8 @@
 				"HealthPercentThrowImp1": 0.3, 
 				"ImpType": "sky_imp", 
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)", 
-				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)" }
+				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)" 
+			}
 		},
 		{
 			"aliases": [
@@ -13202,7 +13201,7 @@
 				"SmashDamage": 1500,
 				"JamStyle": "jam_metal",
 				"WaveType": "eighties_gargantuar_wave",
-				"WavePointCost": 2200,
+				"WavePointCost": 1800,
 				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -13232,7 +13231,7 @@
 				"SmashDamage": 1500,
 				"JamStyle": "jam_clear",
 				"WaveType": "eighties_gargantuar_wave",
-				"WavePointCost": 2200,
+				"WavePointCost": 1800,
 				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -14426,7 +14425,7 @@
 				"Toughness": 7200,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
-				"WavePointCost": 1800,
+				"WavePointCost": 1600,
 				"Weight": 3000,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
