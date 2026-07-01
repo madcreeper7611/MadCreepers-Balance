@@ -101,7 +101,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Blastronaut Zombie now has 600 health instead of 390.
 - Shield Zombie now has 900 health instead of 500.
 - Robo-Cone Zombie now has 3200 health instead of 2500.
-- Mecha-Football Zombie and Disco-tron 3000 now have 3200 health instead of 2000.
+- Mecha-Football Zombie and Disco-tron 3000 now have 3000 health instead of 2000.
 - Bug Bot Imp and Super Fan Imp now have 300 health instead of 270.
 - Knight Zombie now has 1800 health instead of 1790.
 - Wizard Zombie now has 600 health instead of 490.
@@ -129,7 +129,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Bronze Statue now has 12000 health instead of 9000.
 - Bronze of Hook now has a walkspeed of 0.17 instead of 0.16.
 - Bronze of Qigong now has a walkspeed of 0.15 instead of 0.125.
-- Devil of Dynamite's bombs now deal 3000 damage instead of 2500.
+- Devil of Dynamite's bombs now deal 2700 damage instead of 1800.
 - Glitter Zombie now has 750 health instead of 490.
 - MC-Zom-B now has 400 health instead of 250.
 - Arcade Zombie now has 600 health instead of 490.
@@ -144,7 +144,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - All-Star Zombie now has 1800 health instead of 1100 and has a walk speed of 0.24 instead of 0.16.
 - Zombonis now have 2000 health instead of 1100.
 - Bobsled team now has 400 health instead of 390.
-- All gargantuars now have 6000 health (besides for the Jurassic Marsh one which now has 7200 health, as well as the Kongfu Bronzes, with Bronze of Toughness having 9500 health, and Bronze of Hook and Bronze of Qigong having 8000 health) and are also immune to knockback from Primal Peashooter and Scaredy-shroom.
+- All gargantuars now have 5400 health (besides for the Jurassic Marsh one which now has 7200 health, as well as the Kongfu Bronzes, with Bronze of Toughness having 8900 health, and Bronze of Hook and Bronze of Qigong having 7400 health) and are also immune to knockback from Primal Peashooter, Scaredy-shroom, and Holly Knight.
 - Treasure Yeti now has 1500 health instead of 700.
 - Both Ancient Egypt Zombosses now spawn Camel Zombies on the 2nd stage.
 - Both Pirate Seas Zombosses now spawn Imp Cannons on the last stage and now spawn seagull zombies on the 1st stage with the expansion one spawning pelican zombies as well.
