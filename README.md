@@ -7,10 +7,10 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Garlic now has 2000 health instead of 900 and recieves 100 bite damage from zombies instead of 150.
 - Vamporcini deals 120 damage in his plant food ability instead of 40.
 - Dragon Bruit's plant food projectiles now deal 300 damage each instead of 200.
-- Potato Mine, Cherry Bomb, Squash, Grapeshot, Jalapeno, Explode-O-Nut, and Atomic Bombegranate now deal 3000 damage instead of 1800.
-- Coconut Cannon's, Citron, and Spore-shroom's plant food projectile now deals 3000 damage instead of 2500 damage.
-- Bowling Explode-O-Nut and Tall-Nut now deal 3000 damage instead of 2500 damage.
-- Doom-shroom now deals 4500 damage instead of 2700.
+- Potato Mine, Cherry Bomb, Squash, Grapeshot, Jalapeno, Explode-O-Nut, and Atomic Bombegranate now deal 2700 damage instead of 1800.
+- Coconut Cannon's, Citron, and Spore-shroom's plant food projectile now deals 2700 damage instead of 1800 damage.
+- Bowling Explode-O-Nut and Tall-Nut now deal 2700 damage instead of 1800 damage.
+- Doom-shroom now deals 4050 damage instead of 2700.
 - Phat Beet now deals 20 damage instead of 15 and has a chance of dealing 60 damage instead of 45.
 - Intensive Carrot now costs 50 sun instead of 100.
 - Pepper-pult now has a 5 second recharge and now does 60 damage with a splash damage of 20 instead of 50 damage with a splash damage of 10.
@@ -100,7 +100,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Jetpack Zombie now has 400 health instead of 380.
 - Blastronaut Zombie now has 600 health instead of 390.
 - Shield Zombie now has 900 health instead of 500.
-- Robo-Cone Zombie now has 3200 health instead of 2500.
+- Robo-Cone Zombie now has 3600 health instead of 2500.
 - Mecha-Football Zombie and Disco-tron 3000 now have 3000 health instead of 2000.
 - Bug Bot Imp and Super Fan Imp now have 300 health instead of 270.
 - Knight Zombie now has 1800 health instead of 1790.
