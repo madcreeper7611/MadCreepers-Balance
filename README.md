@@ -88,7 +88,6 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Pharaoh Zombie now has 2000 health instead of 1490.
 - Weaker Pharoah Zombie now has 1500 health instead of 1490.
 - Torchlight Zombie now has 800 health instead of 650.
-- Weaker Pharaohs now have a wave point cost of 420 instead of 450.
 - Swashbuckler Zombie now has 250 health instead of 200.
 - Seagull Zombie now has 300 health instead of 270.
 - Pelican Zombie now has 600 health instead of 270.
@@ -155,7 +154,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 # Zombie Nerfs
 
 - Bucketheads now have 1200 health instead of 1290.
-- Gargantuars now have a walk speed of 0.16 instead of 0.24 and a wave point cost of 1800 instead of 1500.
+- Gargantuars now have a walk speed of 0.16 instead of 0.24 and a wave point cost of 1600 instead of 1500.
 - Pharaoh Zombie now has a wave point cost of 650 instead of 450.
 - Pirate Captain and Jester Zombie now has 400 health instead of 420.
 - Robo-Cone now has a wave point cost of 1000 instead of 650.
@@ -168,7 +167,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Monk Imp now has 300 health instead of 600.
 - Fan Swinging Abbot now has 500 health instead of 550.
 - Abbot Imp now has 400 health instead of 600.
-- Metal Hair Gargantuar now has a wave point cost of 2200 instead of 1500, a spawn weight of 2000 instead of 3000 with his shockwave ability dealing 600 damage instead of 1000.
+- Metal Hair Gargantuar now has a wave point cost of 1800 instead of 1500, a spawn weight of 1500 instead of 3000 with his shockwave ability dealing 600 damage instead of 1000.
 - Skunk Punk Zombie now spawns Skunks every 10 seconds instead of every 5 and has a spawn point cost of 600 instead of 500.
 - Jurassic Gargantuar now has a walk speed of 0.12 instead of 0.16.
 - Drone Engineer Zombie now crafts drones every 20 to 24 seconds instead of 16 to 20.
