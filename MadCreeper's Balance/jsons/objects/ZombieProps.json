@@ -11064,7 +11064,7 @@
 				"CannotBeSwallowedByChomper": true,
 				"WalkSPS": 0.16,
 				"EatDPS": 100,
-				"Toughness": 4000,
+				"Toughness": 6000,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"CannotCarryPlantfoodsInWaves": true,
