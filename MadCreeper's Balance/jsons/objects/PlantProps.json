@@ -2614,7 +2614,7 @@
       "objdata": {
         "ImmuneToBoomBox": true,
         "CannotBeSheepenedByWizard": true,
-        "Damage": 4000,
+        "Damage": 4500,
         "TileCrackleDuration": 180,
         "Cooldown": 60,
         "CooldownFrom": 1,
