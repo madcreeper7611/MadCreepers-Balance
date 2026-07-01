@@ -211,7 +211,7 @@
         "BeghouledCost": 2000,
         "Toughness": 300,
         "Family": "Explosive",
-        "ExplodeDamage": 3000,
+        "ExplodeDamage": 2700,
         "ExplodeSeedlingCount": 2,
         "ExplodeProjectileType": "atombomb",
         "SeedlingType": "seedling",
@@ -555,7 +555,7 @@
       ],
       "objdata": {
         "ChargeTime": 14,
-        "Damage": 3000,
+        "Damage": 2700,
         "PlantfoodChildrenCount": 2,
         "Cooldown": 20,
         "CooldownFrom": 0.75,
@@ -2128,7 +2128,7 @@
       ],
       "objdata": {
         "CannotBeSheepenedByWizard": true,
-        "Damage": 3000,
+        "Damage": 2700,
         "Cooldown": 45,
         "CooldownFrom": 1,
         "SunCost": 150,
@@ -2614,7 +2614,7 @@
       "objdata": {
         "ImmuneToBoomBox": true,
         "CannotBeSheepenedByWizard": true,
-        "Damage": 4500,
+        "Damage": 4000,
         "TileCrackleDuration": 180,
         "Cooldown": 60,
         "CooldownFrom": 1,
@@ -2742,7 +2742,7 @@
       "objdata": {
         "ImmuneToBoomBox": true,
         "CannotBeSheepenedByWizard": true,
-        "Damage": 3000,
+        "Damage": 2700,
         "Duration": 5,
         "Cooldown": 45,
         "CooldownFrom": 1,
@@ -3209,7 +3209,7 @@
       "objdata": {
         "PlantfoodSmashTime": 2,
         "SmashTime": 1,
-        "SmashDamage": 3000,
+        "SmashDamage": 2700,
         "Cooldown": 20,
         "CooldownFrom": 1,
         "SunCost": 50,
@@ -3363,8 +3363,8 @@
       "objdata": {
         "CannotBeHealedByAloe": true,
         "ArmorToughness": 4000,
-        "Damage": 3000,
-        "ArmorDamage": 3000,
+        "Damage": 2700,
+        "ArmorDamage": 2700,
         "Cooldown": 45,
         "CooldownFrom": 0.5,
         "SunCost": 200,
@@ -3387,7 +3387,7 @@
       "objdata": {
         "ImmuneToBoomBox": true,
         "CannotBeSheepenedByWizard": true,
-        "Damage": 3000,
+        "Damage": 2700,
         "Cooldown": 45,
         "CooldownFrom": 1,
         "SunCost": 250,
@@ -3636,7 +3636,7 @@
       "objdata": {
         "GrapeType": "grapeshot",
         "ChargeTime": 10,
-        "Damage": 3000,
+        "Damage": 2700,
         "DamagePrimal": 2700,
         "Cooldown": 20,
         "CooldownFrom": 0.75,

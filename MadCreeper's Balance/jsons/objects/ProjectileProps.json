@@ -1530,12 +1530,12 @@
       ],
       "objdata": {
         "IgnoredBy3SectionStaff": true,
-        "Damage": 3000,
+        "Damage": 2700,
         "ShakesScreenOnImpact": true,
         "CannotBeReversedByJester": true,
         "SplashDamage": [
           {
-            "Damage": 3000,
+            "Damage": 2700,
             "Range": {
               "w": 3,
               "h": 3
@@ -1972,7 +1972,7 @@
       ],
       "objdata": {
         "IgnoredBy3SectionStaff": true,
-        "Damage": 3000,
+        "Damage": 2700,
         "DamageType": "electricity",
         "CannotBeReversedByJester": true,
         "SplashDamage": [
@@ -2431,7 +2431,7 @@
         "bowling_pf_mint"
       ],
       "objdata": {
-        "Damage": 3000,
+        "Damage": 2700,
         "ShakesScreenOnImpact": true,
         "CannotBeReversedByJester": true,
         "SplashDamage": [
@@ -2463,7 +2463,7 @@
         "WarmsOnImpact": true,
         "SplashDamage": [
           {
-            "Damage": 3000,
+            "Damage": 2700,
             "Range": {
               "w": 3,
               "h": 3
@@ -2551,8 +2551,8 @@
         "bowling_tallnut"
       ],
       "objdata": {
-        "DamagePerHit": 1800,
-        "Damage": 3000,
+        "DamagePerHit": 2700,
+        "Damage": 2700,
         "ShakesScreenOnImpact": true,
         "IgnoredBy3SectionStaff": true,
         "CannotBeReversedByJester": true,
@@ -3843,7 +3843,7 @@
         "sporeshroom_spore_pf"
       ],
       "objdata": {
-        "Damage": 3000,
+        "Damage": 2700,
         "CarriesSporeShroom": true,
         "Size": {
           "w": 16,
@@ -5324,7 +5324,7 @@
       ],
       "objdata": {
         "SupressArmorProtection": true,
-        "Damage": 3000,
+        "Damage": 2700,
         "Size": {
           "w": 12,
           "h": 12
