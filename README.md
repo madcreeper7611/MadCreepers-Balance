@@ -195,7 +195,8 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Ancient Egypt Day 34 now gives you an imitator iceberg lettuce and now has a minimum sun count of 2400 instead of 1800.
 - Wild West Day 35 now gives you 5 electric currants and 5 electric peashooters instead instead of 4 electric currants and no electric peashooters.
 - Far Future Day 35 now delivers a total of 5 E.M. peaches instead of 2 and Blover is no longer limited.
-- Split Pea is now replaced with Scaredy-shroom in Dark Ages Day 30.
+- Split Pea is now replaced with Scaredy-shroom in Dark Ages Night 30.
+- Removed the imp in the first wave in Lost City Day 37.
 - Moon Flower was replaced with Sun-shroom in Conceal-Mint Night 6 since Moon Flower now costs 100 sun.
 - Puff-shrooms on the 3rd column of Neon Mixtape Tour Night 41 were replaced with Phat Beets and the Puff-shrooms on the first column were replaced with Fume-shrooms.
 - The Conveyor in Neon Mixtape Tour Night 41 now gives 6 extra intensive carrots.
