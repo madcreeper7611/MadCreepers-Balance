@@ -75,7 +75,8 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Zombies Enlightened by Solar Sage now produce sun every 12 to 16 seconds instead of every 10 to 14 seconds.
 - Fire Peashooter now costs 225 sun instead of 175.
 - Nightshade's target range when powered is now 4.5 tiles instead of 9.
-
+- Bowling Wall-Nut, Infi-Nut, and Primal Wall-Nut now deal 550 damage instead of 1000 for zombies with no armor.
+- 
 # Zombie Buffs
 
 - All Basic Zombies now have 200 health instead of 190.
