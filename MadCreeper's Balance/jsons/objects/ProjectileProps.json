@@ -2507,7 +2507,7 @@
         "bowling_infinut"
       ],
       "objdata": {
-        "Damage": 1000,
+        "Damage": 550,
         "DamageBowlingLevel": 1,
         "ShakesScreenOnImpact": true,
         "IgnoredBy3SectionStaff": true,
@@ -2524,7 +2524,7 @@
         "bowling_primal_wallnut"
       ],
       "objdata": {
-        "Damage": 1000,
+        "Damage": 550,
         "DamageBowlingLevel": 1,
         "KnockbackDistance": 1,
         "ShakesScreenOnImpact": true,
@@ -2568,7 +2568,7 @@
         "bowling_wallnut"
       ],
       "objdata": {
-        "Damage": 1000,
+        "Damage": 550,
         "DamageBowlingLevel": 1,
         "ShakesScreenOnImpact": true,
         "IgnoredBy3SectionStaff": true,
