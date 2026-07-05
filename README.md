@@ -63,7 +63,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Ice Bloom now costs 300 sun instead of 200, has a recharge time of 60 seconds instead of 30, and shoots 3 freezing projectiles instead of 4.
 - Parsnip now costs 175 sun instead of 150.
 - Shine Vine now costs 125 sun instead of 75 and now produces 25 sun instead of 50 sun.
-- Moon Flower now costs 100 sun instead of 50 and produces 75 sun when fully powered instead of 100.
+- Moonflower now costs 125 sun instead of 50.
 - Snow Pea now costs 175 sun instead of 150.
 - All Mints now have a recharge of 90 seconds instead of 85.
 - Goo Peashooter now costs 275 sun instead of 150 and now deals 20 damage instead of 30 with the poison damage dealing 5 DPS instead of 10.
