@@ -36,8 +36,8 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 
 # Plant Nerfs
 
-- Sun Producers such as all Sunflower variants, Moonflower, and Shine Vine now produce sun every 32 to 36 seconds instead of every 23.5 to 25 seconds.
-- Sun-shroom now produces sun every 40 to 48 seconds during the day instead of 32 to 30 seconds.
+- Sun Producers such as all Sunflower variants, Moonflower, and Shine Vine now produce sun every 36 to 40 seconds instead of every 23.5 to 25 seconds.
+- Sun-shroom now produces sun every 48 to 56 seconds during the day instead of 32 to 36 seconds.
 - Cherry Bomb, Grapeshot, Jalapeno, and Electric Blueberry now have a recharge time of 45 seconds instead of 35.
 - Doom-shroom now has a recharge time of 60 seconds instead of 35.
 - Winter Melon now costs 600 sun instead of 500.
