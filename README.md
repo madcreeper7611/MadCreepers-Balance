@@ -179,8 +179,8 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Drone Engineer Zombie now crafts drones every 20 to 24 seconds instead of 16 to 20.
 - Newspaper Zombie now has 1000 health instead of 1260.
 - Sunday Edition Zombie now has 2050 health instead of 2290.
-- Zombonis now has a wave point cost of 800 instead of 400.
-- Catapult Zombies now has a wave point cost of 500 instead of 300.
+- Zombonis now have a wave point cost of 800 instead of 400.
+- Catapult Zombies now have a wave point cost of 500 instead of 300.
 - The Pirate Seas zomboss spawns Pirate Captains on the 2nd stage instead of the 1st.
 - The Wild West Expansion Zomboss now spawns Zombie Bulls on the 2nd stage instead of Rodeo Legends, which now spawn on the 3rd stage.
 - The Far Future Zomboss now spawns Shield Zombies on the 2nd stage instead of the 1st.
