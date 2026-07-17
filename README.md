@@ -3,7 +3,7 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 # Plant Buffs
 
 - Peanut now shoots 1.5x faster when it reaches half health.
-- Toadstool now has a chew time of 20 seconds instead of 30.
+- Toadstool now has a chew time of 17 seconds instead of 30.
 - Garlic now has 2000 health instead of 900 and recieves 100 bite damage from zombies instead of 150.
 - Vamporcini deals 120 damage in his plant food ability instead of 40.
 - Dragon Bruit's plant food projectiles now deal 300 damage each instead of 200.
@@ -77,13 +77,15 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Fire Peashooter now costs 225 sun instead of 175.
 - Nightshade's target range when powered is now 4.5 tiles instead of 9.
 - Bowling Wall-Nut, Infi-Nut, and Primal Wall-Nut now deal 550 damage instead of 1000 for zombies with no armor.
-- 
+- Chomper now deals 200 damage to undevourable zombies instead of 500.
+
 # Zombie Buffs
 
-- All Basic Zombies now have 200 health instead of 190.
-- Coneheads now have 600 health instead of 560.
+- All Basic Zombies now have 200 health instead of 190 and have a spawn weight of 4000 instead of 1000.
+- All Conehead Zombies now have 600 health instead of 560 and have a spawn weight of 4000 instead of 3000.
 - Brickheads now have 2400 health instead of 2390.
 - All Rally Zombies now have 400 health instead of 350.
+- All Imps now have 200 health instead of 190 and have a spawn weight of 4000 instead of 1000.
 - Ra and Tomb Raiser Zombie now have 400 health.
 - Camel Zombie now has 550 health instead of 440 and a walk speed of 0.14 instead of 0.12.
 - Explorer Zombie now has 450 health.
@@ -138,12 +140,12 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 - Skunk Punk Zombie now has 500 health instead of 400.
 - Jurassic Zombies now have a base health of 300 instead of 200 but have a walk speed of 0.175 instead of 0.22
 - Fossilhead Zombie now has 2000 health instead of 1990.
-- Jurassic Bully now has 1500 health instead of 1100.
+- Jurassic Bully now has 1500 health instead of 1100 and cannot be devoured by chomper.
 - Jurassic Imp now has 100 health instead of 95.
-- Jurassic Rockpuncher now has 2500 health instead of 2470.
+- Jurassic Rockpuncher now has 2500 health instead of 2470 and cannot be devoured by chomper.
 - Arbiter - Model X now has 4500 health instead of 4000.
 - All-Star Zombie now has 1800 health instead of 1100 and has a walk speed of 0.24 instead of 0.16.
-- Zombonis now have 2000 health instead of 1100.
+- Zombonis now have 2000 health instead of 1100 and are immune to all knockback.
 - Bobsled team now has 400 health instead of 390.
 - All gargantuars now have 5400 health (besides for the Jurassic Marsh one which now has 7200 health, as well as the Kongfu Bronzes, with Bronze of Toughness having 8900 health, and Bronze of Hook and Bronze of Qigong having 7400 health) and are also immune to knockback from Primal Peashooter, Scaredy-shroom, and Holly Knight.
 - Treasure Yeti now has 1500 health instead of 700.
@@ -155,26 +157,30 @@ Welcome to the official repository of MadCreeper's Balance, a balancing mod for 
 
 # Zombie Nerfs
 
-- Bucketheads now have 1200 health instead of 1290.
-- Gargantuars now have a walk speed of 0.16 instead of 0.24 and a wave point cost of 1600 instead of 1500.
+- Bucketheads now have 1200 health instead of 1290 and have a spawn weight of 3000 instead of 4000.
+- Gargantuars now have a walk speed of 0.16 instead of 0.24, a wave point cost of 1600 instead of 1500, and a spawn weight of 1500 instead of 3000.
 - Pharaoh Zombie now has a wave point cost of 650 instead of 450.
 - Pirate Captain and Jester Zombie now has 400 health instead of 420.
 - Robo-Cone now has a wave point cost of 1000 instead of 650.
 - Mecha-Football Zombie now has a wave point cost of 1200 instead of 1000.
 - Disco-tron 3000 now has a wave point cost of 1000 instead of 800.
 - Surfer Zombie's surfboard now has 600 health instead of 700.
+- Rocket Imps now have a wave point cost of 200 instead of 150.
 - Bronze of Toughness now has a walk speed of 0.12 instead of 0.16, increases their walk speed to 0.24 instead of 0.4, and has a wave point cost of 2400 instead of 1500.
 - Bronze of Hook now swaps lanes every 12 to 20 seconds instead of every 10 to 16 seconds and has a wave point cost of 2500 instead of 1500.
 - Bronze of Qigong has a wave point cost of 2400 instead of 1800.
 - Monk Imp now has 300 health instead of 600.
 - Fan Swinging Abbot now has 500 health instead of 550.
 - Abbot Imp now has 400 health instead of 600.
-- Metal Hair Gargantuar now has a wave point cost of 1800 instead of 1500, a spawn weight of 1500 instead of 3000 with his shockwave ability dealing 600 damage instead of 1000.
+- Metal Hair Gargantuar now has a wave point cost of 1800 instead of 1500 and his shockwave ability deals 600 damage instead of 1000.
 - Skunk Punk Zombie now spawns Skunks every 10 seconds instead of every 5 and has a spawn point cost of 600 instead of 500.
+- Jurassic Bully and Jurassic Rockpuncher now have a spawn weight of 3000 instead of 4500.
 - Jurassic Gargantuar now has a walk speed of 0.12 instead of 0.16.
 - Drone Engineer Zombie now crafts drones every 20 to 24 seconds instead of 16 to 20.
 - Newspaper Zombie now has 1000 health instead of 1260.
 - Sunday Edition Zombie now has 2050 health instead of 2290.
+- Zombonis now has a wave point cost of 800 instead of 400.
+- Catapult Zombies now has a wave point cost of 500 instead of 300.
 - The Pirate Seas zomboss spawns Pirate Captains on the 2nd stage instead of the 1st.
 - The Wild West Expansion Zomboss now spawns Zombie Bulls on the 2nd stage instead of Rodeo Legends, which now spawn on the 3rd stage.
 - The Far Future Zomboss now spawns Shield Zombies on the 2nd stage instead of the 1st.
