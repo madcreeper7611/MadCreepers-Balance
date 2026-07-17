@@ -13,7 +13,7 @@
 				"Toughness": 200,
 				"EatDPS": 100,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -32,7 +32,7 @@
 					"feastivus_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -51,7 +51,7 @@
 					"feastivus_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -83,7 +83,7 @@
 				"Toughness": 200,
 				"EatDPS": 100,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -102,7 +102,7 @@
 					"foodfight_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -121,7 +121,7 @@
 					"foodfight_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -325,7 +325,7 @@
 				"Toughness": 200,
 				"EatDPS": 100,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -344,7 +344,7 @@
 					"modern_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -363,7 +363,7 @@
 					"modern_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -383,7 +383,7 @@
 					"modern_armor4"
 				],
 				"WavePointCost": 700,
-				"Weight": 4000,
+				"Weight": 2000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -434,7 +434,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -456,7 +456,7 @@
 					"modern_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -478,7 +478,7 @@
 					"modern_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -501,7 +501,7 @@
 					"modern_armor4"
 				],
 				"WavePointCost": 700,
-				"Weight": 4000,
+				"Weight": 2000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -560,7 +560,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 3500,
 				"HitRect": "RTID(ImpHitRect@RectangleProps)",
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)"
 			}
@@ -580,7 +580,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 3500,
 				"HitRect": "RTID(ImpHitRect@RectangleProps)",
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)",
 				"AllstarKickedColumn": {
@@ -612,7 +612,7 @@
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
 			}
@@ -639,7 +639,7 @@
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"DecreasedChangeLaneCDPerSmash": 2,
 				"ImpType": "tutorial_imp",
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
@@ -676,7 +676,7 @@
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"ImpType": "sportzball_imp",
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -694,7 +694,7 @@
 				"Toughness": 1,
 				"EatDPS": 100,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)",
 				"Lifespan": {
@@ -729,7 +729,7 @@
 				"Toughness": 1,
 				"EatDPS": 100,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)",
 				"Lifespan": {
@@ -770,7 +770,7 @@
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"ImpType": "easter_egg",
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -798,7 +798,7 @@
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"ImpType": "easter_egg_af",
 				"ImpColumnsAreRelative": true,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
@@ -830,7 +830,7 @@
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"LaneChangeTime": 0.6,
 				"ImpType": "valentines_imp",
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
@@ -860,7 +860,7 @@
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"ImpType": "holiday_imp",
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -889,7 +889,7 @@
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"ImpType": "feastivus_imp",
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -918,7 +918,7 @@
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
 			}
@@ -946,7 +946,7 @@
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)",
 				"HeatInterval": 1
@@ -1121,6 +1121,7 @@
 				"CannotBeDraggedByTangleKelp": true,
 				"CannotBeTossedByCitron": true,
 				"CannotBeSwallowedByChomper": true,
+				"CannotBeKnockedBackByProjectiles": true,
 				"WalkSPS": 0.2,
 				"EatDPS": 1000,
 				"Toughness": 2000,
@@ -1128,7 +1129,7 @@
 				"NormalDeathWhenMowed": true,
 				"ChiliStunDurationMult": 0,
 				"ImmuneToGarlic": true,
-				"WavePointCost": 400,
+				"WavePointCost": 800,
 				"Weight": 4000,
 				"HitRect": "RTID(ZomboniHitRect@RectangleProps)",
 				"AttackRect": "RTID(ZomboniAttackRect@RectangleProps)"
@@ -1149,14 +1150,14 @@
 				"CannotBeSwallowedByChomper": true,
 				"WalkSPS": 0.4,
 				"EatDPS": 1000,
-				"Toughness": 900,
+				"Toughness": 950,
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"LobInterval": 4,
 				"LobIntervalAdditional": 0.5,
 				"MaxBallCount": 20,
 				"ImmuneToGarlic": true,
-				"WavePointCost": 300,
+				"WavePointCost": 500,
 				"Weight": 4000,
 				"HitRect": "RTID(CatapultHitRect@RectangleProps)",
 				"AttackRect": "RTID(CatapultAttackRect@RectangleProps)"
@@ -1173,7 +1174,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -1192,7 +1193,7 @@
 					"egypt_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -1211,7 +1212,7 @@
 					"egypt_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -1231,7 +1232,7 @@
 					"egypt_armor4"
 				],
 				"WavePointCost": 700,
-				"Weight": 4000,
+				"Weight": 2000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -1957,7 +1958,7 @@
 				"WalkSPS": 0.22,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 3500,
 				"HitRect": "RTID(ImpHitRect@RectangleProps)",
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)"
 			}
@@ -1989,7 +1990,7 @@
 					"mummy"
 				],
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
 			}
@@ -2673,7 +2674,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -2692,7 +2693,7 @@
 					"pirate_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -2711,7 +2712,7 @@
 					"pirate_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -2731,7 +2732,7 @@
 					"pirate_armor4"
 				],
 				"WavePointCost": 700,
-				"Weight": 4000,
+				"Weight": 2000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -2981,7 +2982,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 3500,
 				"HitRect": "RTID(ImpHitRect@RectangleProps)",
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)"
 			}
@@ -3009,7 +3010,7 @@
 				"Toughness": 5400,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
 			}
@@ -3641,7 +3642,7 @@
 					"cowboy_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -3661,7 +3662,7 @@
 					"cowboy_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -3682,7 +3683,7 @@
 					"cowboy_armor4"
 				],
 				"WavePointCost": 700,
-				"Weight": 4000,
+				"Weight": 2000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -4013,7 +4014,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 3500,
 				"HitRect": "RTID(ImpHitRect@RectangleProps)",
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)"
 			}
@@ -4043,7 +4044,7 @@
 				"SplashDamageToZombies": 100,
 				"SplashDamageToPlants": 40,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
 			}
@@ -4645,7 +4646,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)",
 				"ZombieTypesToSummonBecomingFlag": [
@@ -4671,7 +4672,7 @@
 					"kongfu_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -4690,7 +4691,7 @@
 					"kongfu_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -4709,7 +4710,7 @@
 					"kongfu_armor3"
 				],
 				"WavePointCost": 550,
-				"Weight": 4500,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -4975,7 +4976,7 @@
 				"Toughness": 8900,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 2400,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)",
 				"EnragedWalkingSpeedScale": 2,
@@ -5006,7 +5007,7 @@
 				"Toughness": 7400,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 2400,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)",
 				"TimeBetweenSkills": {
@@ -5063,7 +5064,7 @@
 				"Toughness": 7400,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 2400,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)",
 				"TimeBetweenSkills": {
@@ -5120,7 +5121,7 @@
 				"Toughness": 7400,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 2500,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)",
 				"LeapInterval": {
@@ -5175,7 +5176,7 @@
 				"WalkSpeedMultFlying": 7,
 				"EatDPS": 100,
 				"Toughness": 200,
-				"WavePointCost": 100,
+				"WavePointCost": 200,
 				"Weight": 1000,
 				"HitRect": "RTID(ImpHitRect@RectangleProps)",
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)"
@@ -5885,7 +5886,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)",
 				"ZombieTypesToSummonBecomingFlag": [
@@ -5911,7 +5912,7 @@
 					"kongfu_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -5930,7 +5931,7 @@
 					"kongfu_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -5949,7 +5950,7 @@
 					"kongfu_armor3"
 				],
 				"WavePointCost": 550,
-				"Weight": 4500,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -6091,7 +6092,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -6107,7 +6108,7 @@
 				"EatDPS": 100,
 				"Toughness": 250,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)",
 				"ZombieTypesToSummonBecomingFlag": [
@@ -6133,7 +6134,7 @@
 					"kongfu_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -6152,7 +6153,7 @@
 					"kongfu_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -6171,7 +6172,7 @@
 					"kongfu_armor3"
 				],
 				"WavePointCost": 550,
-				"Weight": 4500,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -6241,7 +6242,7 @@
 					"future_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -6260,7 +6261,7 @@
 					"future_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -6280,7 +6281,7 @@
 					"future_armor4"
 				],
 				"WavePointCost": 700,
-				"Weight": 4000,
+				"Weight": 2000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -6571,7 +6572,7 @@
 				"NormalDeathWhenMowed": true,
 				"ImmuneToGarlic": true,
 				"WavePointCost": 150,
-				"Weight": 1000,
+				"Weight": 3500,
 				"HitRect": "RTID(ImpHitRect@RectangleProps)",
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)"
 			}
@@ -7783,7 +7784,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -7802,7 +7803,7 @@
 					"dark_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -7821,7 +7822,7 @@
 					"dark_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -7840,7 +7841,7 @@
 					"dark_armor3"
 				],
 				"WavePointCost": 550,
-				"Weight": 4500,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -7860,7 +7861,7 @@
 					"dark_armor4"
 				],
 				"WavePointCost": 700,
-				"Weight": 4000,
+				"Weight": 2000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -8074,7 +8075,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 3500,
 				"HitRect": "RTID(ImpHitRect@RectangleProps)",
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)"
 			}
@@ -8102,7 +8103,7 @@
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
 			}
@@ -8841,7 +8842,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -8860,7 +8861,7 @@
 					"beach_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -8879,7 +8880,7 @@
 					"beach_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -8915,7 +8916,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -8934,7 +8935,7 @@
 					"beach_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -8953,7 +8954,7 @@
 					"beach_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -9148,7 +9149,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 3500,
 				"HitRect": "RTID(ImpHitRect@RectangleProps)",
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)"
 			}
@@ -9178,7 +9179,7 @@
 				"Toughness": 5400,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
 			}
@@ -9961,7 +9962,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -9981,7 +9982,7 @@
 					"iceage_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -10001,7 +10002,7 @@
 					"iceage_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -10021,7 +10022,7 @@
 					"iceage_armor3"
 				],
 				"WavePointCost": 550,
-				"Weight": 4500,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -10042,7 +10043,7 @@
 					"iceage_armor4"
 				],
 				"WavePointCost": 700,
-				"Weight": 4000,
+				"Weight": 2000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -10301,7 +10302,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 3500,
 				"HitRect": "RTID(ImpHitRect@RectangleProps)",
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)"
 			}
@@ -10334,7 +10335,7 @@
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
 			}
@@ -11005,7 +11006,7 @@
 				"EatDPS": 100,
 				"Toughness": 300,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -11024,7 +11025,7 @@
 					"zoybean_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -11043,7 +11044,7 @@
 					"zoybean_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -11072,7 +11073,7 @@
 				"SmashDamage": 1500,
 				"FireDamage": 1200,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
 			}
@@ -11088,7 +11089,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -11107,7 +11108,7 @@
 					"halloween_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -11126,7 +11127,7 @@
 					"halloween_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -11175,7 +11176,7 @@
 				"SmashDamage": 1500,
 				"FireDamage": 1200,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"ElectricityStunDuration": 1,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
@@ -11193,7 +11194,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -11213,7 +11214,7 @@
 					"summer_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -11233,7 +11234,7 @@
 					"summer_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -11327,7 +11328,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -11347,7 +11348,7 @@
 					"lostcity_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -11367,7 +11368,7 @@
 					"lostcity_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -11387,7 +11388,7 @@
 					"lostcity_armor4"
 				],
 				"WavePointCost": 700,
-				"Weight": 4000,
+				"Weight": 2000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -11716,7 +11717,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 3500,
 				"HitRect": "RTID(ImpHitRect@RectangleProps)",
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)"
 			}
@@ -11745,7 +11746,7 @@
 				"SmashDamage": 1500,
 				"FireDamage": 1200,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
 			}
@@ -12528,7 +12529,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -12548,7 +12549,7 @@
 					"sky_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -12568,7 +12569,27 @@
 					"sky_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
+				"HitRect": "RTID(CommonHitRect@RectangleProps)",
+				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
+			}
+		},
+		{
+			"aliases": [
+				"sky_armor4"
+			],
+			"objclass": "ZombieProperties",
+			"objdata": {
+				"ZombieSort": "Normal",
+				"ChooseToSpawnOnNonDeckRows": true,
+				"WalkSPS": 0.24,
+				"EatDPS": 100,
+				"Toughness": 200,
+				"StartingArmors": [
+					"sky_armor4"
+				],
+				"WavePointCost": 700,
+				"Weight": 2000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -12605,7 +12626,7 @@
 				"EatDPS": 100, 
 				"Toughness": 200, 
 				"WavePointCost": 100, 
-				"Weight": 1000, 
+				"Weight": 3500, 
 				"HitRect": "RTID(ImpHitRect@RectangleProps)", 
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)", 
 				"JumpSPS": 3, 
@@ -12727,7 +12748,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -12746,7 +12767,7 @@
 					"eighties_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -12765,7 +12786,7 @@
 					"eighties_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -12784,7 +12805,7 @@
 					"eighties_armor4"
 				],
 				"WavePointCost": 700,
-				"Weight": 4000,
+				"Weight": 2000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -13096,7 +13117,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -13115,7 +13136,7 @@
 					"eighties_8bit_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -13134,7 +13155,7 @@
 					"eighties_8bit_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -13172,7 +13193,7 @@
 				"EatDPS": 100,
 				"Toughness": 200,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 3500,
 				"HitRect": "RTID(ImpHitRect@RectangleProps)",
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)"
 			}
@@ -14232,7 +14253,7 @@
 				"EatDPS": 150,
 				"Toughness": 300,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -14251,7 +14272,7 @@
 					"dino_armor1"
 				],
 				"WavePointCost": 200,
-				"Weight": 3000,
+				"Weight": 4000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -14270,7 +14291,7 @@
 					"dino_armor2"
 				],
 				"WavePointCost": 400,
-				"Weight": 4000,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -14289,7 +14310,7 @@
 					"dino_armor3"
 				],
 				"WavePointCost": 550,
-				"Weight": 4500,
+				"Weight": 3000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -14309,7 +14330,7 @@
 					"dino_armor4"
 				],
 				"WavePointCost": 700,
-				"Weight": 4000,
+				"Weight": 2000,
 				"HitRect": "RTID(CommonHitRect@RectangleProps)",
 				"AttackRect": "RTID(CommonAttackRect@RectangleProps)"
 			}
@@ -14358,10 +14379,11 @@
 				"EatDPS": 100,
 				"Toughness": 1500,
 				"CannotBeKnockedBackByProjectiles": true,
+				"CannotBeSwallowedByChomper": true,
 				"SmashDamage": 0,
 				"CraterLifetime": 0,
 				"WavePointCost": 450,
-				"Weight": 4500,
+				"Weight": 3000,
 				"HitRect": "RTID(BullyHitRect@RectangleProps)",
 				"AttackRect": "RTID(BullyAttackRect@RectangleProps)"
 			}
@@ -14376,10 +14398,11 @@
 				"EatDPS": 100,
 				"Toughness": 2500,
 				"CannotBeKnockedBackByProjectiles": true,
+				"CannotBeSwallowedByChomper": true,
 				"SmashDamage": 1500,
 				"CraterLifetime": 25,
 				"WavePointCost": 1000,
-				"Weight": 4500,
+				"Weight": 2000,
 				"HitRect": "RTID(BullyHitRect@RectangleProps)",
 				"AttackRect": "RTID(BullyAttackRect@RectangleProps)"
 			}
@@ -14398,7 +14421,7 @@
 				"EatDPS": 200,
 				"Toughness": 100,
 				"WavePointCost": 100,
-				"Weight": 1000,
+				"Weight": 3500,
 				"HitRect": "RTID(ImpHitRect@RectangleProps)",
 				"AttackRect": "RTID(ImpAttackRect@RectangleProps)"
 			}
@@ -14426,7 +14449,7 @@
 				"LivesInDeepWater": true,
 				"NormalDeathWhenMowed": true,
 				"WavePointCost": 1600,
-				"Weight": 3000,
+				"Weight": 1500,
 				"HitRect": "RTID(GargantuarHitRect@RectangleProps)",
 				"AttackRect": "RTID(GargantuarAttackRect@RectangleProps)"
 			}
